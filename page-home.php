@@ -14,10 +14,10 @@ get_header(); ?>
 <section id="home-1" class="py-5">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-7">
             
             </div>
-            <div class="col-md-8 bg-dark">
+            <div class="col-md-5 py-5 bg-dark">
             
             </div>
         </div>
